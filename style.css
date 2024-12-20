@@ -1,0 +1,43 @@
+#dc{
+    font-size: 46px;
+    font-weight: bold;
+}
+#button{
+    background-color: rgb(70, 117, 236);
+    color: white;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    padding: 3px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+#label{
+    font-size:22px;
+    font-weight: bold;
+}
+.box{
+    border: none;
+    margin: auto;
+    max-width: max-content;
+    height: 150px;
+    text-align: center;
+    padding: 15px;
+}
+body{
+    background-color: rgb(197, 188, 188);
+}
+#no_dice{
+    width: 80px;
+}
+#result{
+    font-size: 22px;
+    font-weight: bold;
+}
+#imgs{
+    margin: 25px;
+}
+#imgs img{
+    width: 100px;
+    margin: 5px
+}
